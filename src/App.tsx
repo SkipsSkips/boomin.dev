@@ -65,7 +65,11 @@ function App() {
     {
       title: "Mechanic Shop Website",
       description: "Professional auto repair and maintenance services",
+<<<<<<< HEAD
       image: "src/mechanic/img/mechanic-7625592_1920.jpg",
+=======
+      image: "/mechanic/img/mechanic-7625592_1920.jpg", // updated path
+>>>>>>> b5bfd99 (Initial commit)
       tags: ["HTML", "CSS", "JavaScript"],
       results: "150% increase in bookings"
     },
@@ -209,7 +213,11 @@ function App() {
                 <div className="group bg-white rounded-2xl shadow-lg overflow-hidden gradient-border card-hover w-full">
                   <div className="relative overflow-hidden">
                     <img 
+<<<<<<< HEAD
                       src="src/mechanic/img/mechanic-7625592_1920.jpg" 
+=======
+                      src="/mechanic/img/mechanic-7625592_1920.jpg" // updated path
+>>>>>>> b5bfd99 (Initial commit)
                       alt="Mechanic Project" 
                       className="w-full h-52 sm:h-64 md:h-72 object-cover transform group-hover:scale-105 transition-transform duration-500" 
                     />
@@ -441,7 +449,11 @@ function App() {
               </div>
               <div className="flex flex-col items-end">
                 <img
+<<<<<<< HEAD
                   src="/src/img/logo-full.png"
+=======
+                  src="/img/logo-full.png" // updated path
+>>>>>>> b5bfd99 (Initial commit)
                   alt="Boomin Full Logo"
                   style={{
                     height: '70px',
@@ -477,7 +489,11 @@ function App() {
                 </svg>
               </button>
               <iframe
+<<<<<<< HEAD
                 src="/src/RestaurantSite/index.html"
+=======
+                src="/RestaurantSite/index.html" // updated path
+>>>>>>> b5bfd99 (Initial commit)
                 title="Premium Restaurant Platform"
                 className="flex-1 w-full h-full border-0"
               />
@@ -503,7 +519,11 @@ function App() {
                 </svg>
               </button>
               <iframe
+<<<<<<< HEAD
                 src="/src/mechanic/index.html"
+=======
+                src="/mechanic/index.html" // updated path
+>>>>>>> b5bfd99 (Initial commit)
                 title="Mechanic Website"
                 className="flex-1 w-full h-full border-0"
               />
